@@ -51,3 +51,57 @@
 <a target="_blank" href="https://www.instagram.com/Cloudy_9_3" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BadalSharma007&show_icons=true&locale=en&layout=compact" alt="BadalSharma007" /></p>
 
+
+
+# 🚀 Cloudy007777 | AI/ML & LLM Researcher  
+🔹 Passionate AI/ML Developer | LLM Enthusiast | Generative AI | Deep Learning  
+🔹 Exploring the cutting edge of AI with Large Language Models & Computer Vision  
+
+![Profile Views](https://komarev.com/ghpvc/?username=cloudy007777&label=Profile%20Views&color=blue&style=flat)
+
+---
+
+## 🧠 Currently Working On:  
+- 🏗 **Large Language Models (LLMs):** Fine-tuning **GPT-2** for text generation, exploring transformer-based architectures.  
+- 🎯 **Image Recognition & Face Recognition:** Built EfficientNet models (**B0, B4, B7**) for a **face recognition attendance system**.  
+- 🔐 **Image Steganography:** AI-powered techniques for secure **data hiding & privacy-preserving communication**.  
+- 📊 **Kaggle Competitions:** Participating in **Playground Series S4E11** (mental health analysis).  
+
+---
+
+## 🔬 Research & Development:  
+- 🏆 **Deep Learning Architectures:** Working with **EfficientNet, Inception-ResNet-v2, Transformers**.  
+- 🎯 **Computer Vision & Object Detection:** Implemented **YOLO, EfficientDet** for real-world applications.  
+- 🤖 **Generative AI & NLP:** Experimenting with **GPT-2, fine-tuning LLMs for AI chatbots & content generation**.  
+- 🛡 **Cybersecurity & Malware Detection:** Developing a **deep learning model** for **malware classification**.  
+
+---
+
+## 📚 Currently Learning & Exploring:  
+- ⚡ **PyTorch & TensorFlow (tf_keras):** Advanced model training & optimization techniques.  
+- 🧠 **LLMs & Generative AI:** Model fine-tuning, prompt engineering & real-world applications.  
+- 📝 **Advanced NLP Techniques:** Training **transformers for summarization, Q&A systems, and chatbot development**.  
+
+---
+
+## 🏆 My Achievements & Contributions:  
+✅ Developed an **AI-powered face recognition attendance system**.  
+✅ Conducted **research on EfficientNet & Inception-ResNet-v2** for high-accuracy classification.  
+✅ Built an **image recognition chatbot** with **object detection & NLP capabilities**.  
+✅ Designed a **malware detection model** using deep learning.  
+✅ Published research on **image steganography** for **secure AI-driven data transmission**.  
+
+---
+
+## 📡 Connect with Me:  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cloudy007777)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)  
+
+---
+
+## 📊 GitHub Stats:  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloudy007777&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudy007777&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cloudy007777&show_icons=true&theme=dark)  
+
+
