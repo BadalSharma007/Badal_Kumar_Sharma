@@ -57,7 +57,7 @@
 🔹 Passionate AI/ML Developer | LLM Enthusiast | Generative AI | Deep Learning  
 🔹 Exploring the cutting edge of AI with Large Language Models & Computer Vision  
 
-![Profile Views](https://komarev.com/ghpvc/?username=cloudy007777&label=Profile%20Views&color=blue&style=flat)
+
 
 ---
 
