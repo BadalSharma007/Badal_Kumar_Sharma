@@ -93,15 +93,3 @@
 
 ---
 
-## 📡 Connect with Me:  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cloudy007777)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)  
-
----
-
-## 📊 GitHub Stats:  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloudy007777&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudy007777&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cloudy007777&show_icons=true&theme=dark)  
-
-
