@@ -14,10 +14,7 @@
   <img src="https://profile-counter.glitch.me/BadalSharma007/count.svg?"  />
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/BadalSharma007/BadalSharma007/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
-###
 
 
 
