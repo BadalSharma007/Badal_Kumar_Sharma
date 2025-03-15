@@ -3,11 +3,18 @@
 <p>🤖 Making AI so smart, it might take my job someday.</p>
 
 
-
-
-
-
 <img src="https://raw.githubusercontent.com/BadalSharma007/BadalSharma007/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+
+
 
 
 
