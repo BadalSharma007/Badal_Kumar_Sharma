@@ -9,7 +9,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
+![Profile Views]
 <div align="center">
   <img src="https://profile-counter.glitch.me/BadalSharma007/count.svg?"  />
 </div>
