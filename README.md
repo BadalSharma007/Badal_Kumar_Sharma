@@ -10,7 +10,11 @@
 </picture>
 
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/BadalSharma007/count.svg?"  />
+</div>
 
+###
 
 
 
